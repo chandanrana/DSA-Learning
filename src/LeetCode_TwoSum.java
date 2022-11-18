@@ -25,7 +25,6 @@ public class LeetCode_TwoSum {
                 return new int[]{arr[start], arr[end]};
             }
         }
-
         return new int[]{};
     }
 }
